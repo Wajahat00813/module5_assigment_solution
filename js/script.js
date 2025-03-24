@@ -14,7 +14,7 @@ $(function () { // Same as document.addEventListener("DOMContentLoaded"...
 var dc = {};
 
 var homeHtmlUrl = "snippets/home-snippet.html";
-var allCategoriesUrl = "../JSON/categories.json";
+var allCategoriesUrl = "https://github.com/Wajahat00813/module5_assigment_solution/blob/main/JSON/categories.json";
 var categoriesTitleHtml = "snippets/categories-title-snippet.html";
 var categoryHtml = "snippets/category-snippet.html";
 var menuItemsUrl = "https://coursera-jhu-default-rtdb.firebaseio.com/menu_items/";
